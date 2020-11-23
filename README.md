@@ -7,7 +7,7 @@ For fun.
 HOW:
 To install this extension in your Chrome browser, follow these steps:
 
-1. Download this git repository to your computer by clicking "Clone or Download" and then "Download ZIP." 
+1. Download this git repository to your computer by clicking "Code" and then "Download ZIP." 
 2. Unzip/extract the ZIP on your computer.
 3. Go to this URL in your Chrome browser: [chrome://extensions/](chrome://extensions/)
 4. Click to check the box for "Developer mode."
