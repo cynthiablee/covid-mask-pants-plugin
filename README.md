@@ -13,7 +13,7 @@ To install this extension in your Chrome browser, follow these steps:
 4. Click to check the box for "Developer mode."
 5. One of the new buttons that should appear is "Load unpacked extension." Click it. 
 6. Choose the folder that the unzipped/extracted files are in (probably called "covid-mask-pants-plugin-master").
-7. The extension should now appear and the "Enabled" box should be checked. Start browsing blockchain news to read about all the things a giant Excel spreadsheet can do!
+7. The extension should now appear and the "Enabled" box should be checked. Start browsing pandemic skeptic forums to learn about the reasons people don't think they should have to wear pants in public.
 
 Special thanks:
 
