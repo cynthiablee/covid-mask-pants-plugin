@@ -17,7 +17,7 @@ To install this extension in your Chrome browser, follow these steps:
 
 EXAMPLE:
 Here is a screenshot of a google news headline, with this plugin enabled. (Text: "Mayor 'disgusted' as crowds in downtown Savannah disregard pants mandate")
-![image]("https://user-images.githubusercontent.com/22127496/100576230-91f07100-3292-11eb-9493-2f4638fc2fbd.jpg")
+![image](https://user-images.githubusercontent.com/22127496/100576230-91f07100-3292-11eb-9493-2f4638fc2fbd.jpg)
 
 SPECIAL THANKS:
 Jeremy Grimshaw for the suggested word replacements. Tom Maxwell for the [tutorial and template code](https://9to5google.com/2015/06/14/how-to-make-a-chrome-extensions/) for this project.
