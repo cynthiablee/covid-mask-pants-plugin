@@ -19,8 +19,8 @@ for (var i = 0; i < elements.length; i++) {
 			replacedText = replacedText.replace(/Facemask/g, 'Pants');
 			replacedText = replacedText.replace(/masks/g, 'pants');
 			replacedText = replacedText.replace(/Masks/g, 'Pants');
-			replacedText = replacedText.replace(/a mask/g, 'pants');
-			replacedText = replacedText.replace(/A mask/g, 'Pants');
+			replacedText = replacedText.replace(/ a mask/g, 'pants'); // leading space is to prevent match with e.g. "zebra mask"
+			replacedText = replacedText.replace(/ A mask/g, 'Pants'); 
 			replacedText = replacedText.replace(/mask/g, 'pants');
 			replacedText = replacedText.replace(/Mask/g, 'Pants');
 
